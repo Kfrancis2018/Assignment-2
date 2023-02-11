@@ -1,3 +1,0 @@
-<book lang="en">
-<?dbhtml filename="wsvar-report.html"?>
-<bookinfo><title>Workspace Variables</title><subtitle></subtitle><author><firstname>MathWorks</firstname></author><pubdate>10-Feb-2023</pubdate><abstract><para><phrase xml:space="preserve">This report shows all of the variables in the workspace.</phrase></para></abstract></bookinfo>&sect-002;

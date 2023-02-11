@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<sect1>
-<?dbhtml filename="wsvar-report-007.html"?>
-<title>Variable - aMatrix</title><anchor id="mw_b8f9ed004c67ecc47ca61995ab3616a6"/><table border="1" cellspacing="0" fastRender="1"><?db2dom style-name="rgDDVarTable"?><caption><phrase>aMatrix</phrase></caption><col colname="0" colnum="0" width="33.33333333333333%"/><col colname="1" colnum="1" width="33.33333333333333%"/><col colname="2" colnum="2" width="33.33333333333333%"/><tbody><tr><td align="left">0.8147</td><td align="left">0.6324</td><td align="left">0.9575</td></tr><tr><td align="left">0.9058</td><td align="left">0.0975</td><td align="left">0.9649</td></tr><tr><td align="left">0.1270</td><td align="left">0.2785</td><td align="left">0.1576</td></tr><tr><td align="left">0.9134</td><td align="left">0.5469</td><td align="left">0.9706</td></tr></tbody></table></sect1>
